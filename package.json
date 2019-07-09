@@ -1,16 +1,16 @@
 {
-  "name": "cordova-app-hello-world",
+  "name": "parcel-cordova-template",
   "version": "4.0.1-dev",
-  "description": "This is the hello world app used by the `cordova create` command.",
+  "description": "A Cordova template that relies on Parcel bundles.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-app-hello-world"
+    "url": "https://github.com/busterc/cordova-app-hello-world/tree/parcel"
   },
   "main": "index.js",
   "keywords": [
     "ecosystem:cordova",
     "cordova:template"
   ],
-  "author": "Apache Software Foundation",
+  "author": "Buster Collings",
   "license": "Apache-2.0"
 }
